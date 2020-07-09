@@ -22,6 +22,10 @@ Layers needed by CNN :
 
 ![flattening](https://user-images.githubusercontent.com/61824566/86999318-f15cc000-c1cf-11ea-9b6f-51872415433d.PNG)
 
+
+Note :
+A convolutional network receives a normal color image as a rectangular box whose width and height are measured by the number of pixels along those dimensions, and whose depth is three layers deep, one for each letter in RGB. Those depth layers are referred to as channels.
+
  - RGB layers of an image :
  
  ![RGB](https://user-images.githubusercontent.com/61824566/86999330-f6217400-c1cf-11ea-89ec-d24967ff20c2.PNG)
