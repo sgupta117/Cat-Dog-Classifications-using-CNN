@@ -1,4 +1,4 @@
-# Cat-Dog-Classifications-using-Kera-CNN
+# Cat-Dog-Classifications-using-Keras-Tensorflow-CNN
 
 
 This is a project or a app to classify whether images contain either a dog or a cat.
