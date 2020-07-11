@@ -2,7 +2,7 @@
 Google Colaboratory link for this project : https://colab.research.google.com/drive/1XyDaJ37_pllGA0TZKeXeideJxFVHn66J?usp=sharing
 
 As data set is quite big so mentioning the Dataset link to download from :
- - https://www.kaggle.com/c/dogs-vs-cats/data OR https://www.kaggle.com/shyambajaj/cat-and-dog-classification-using-keras  [Can be used either.]
+ - https://www.kaggle.com/arpitjain007/dog-vs-cat-fastai
 
 This is a project or a app to classify whether images contain either a dog or a cat.
 
